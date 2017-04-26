@@ -1,22 +1,0 @@
-
-r
-squid:S106";Replace this usage of System.out or System.err by a logger.(ÀÊŞÈøÿÿÿÿ8Å×ù¶º+HRMAJORZ
-CODE_SMELL
-ˆsquid:S1450"URemove the "choice" field and declare it as a local variable in the relevant methods.(ÍŠ™»8’‡‚·º+HRMINORZ
-CODE_SMELL
-m
-squid:S106";Replace this usage of System.out or System.err by a logger.(šóÎ“8Å×ù¶º+HRMAJORZ
-CODE_SMELL
-r
-squid:S106";Replace this usage of System.out or System.err by a logger.(£‡¼ùÿÿÿÿ8Ä×ù¶º+HRMAJORZ
-CODE_SMELL
-Usquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Â¥‹·º+H"RBLOCKERZBUG
-lsquid:S1118":Add a private constructor to hide the implicit public one.(€¡êi8ë‘ƒ·º+HRMAJORZ
-CODE_SMELL
-r
-squid:S106";Replace this usage of System.out or System.err by a logger.(Ò½Õ›ùÿÿÿÿ8™Ïó¶º+HRMAJORZ
-CODE_SMELL
-isquid:S1135&"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8í³·º+H'RINFOZ
-CODE_SMELL
-isquid:S1135+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8í³·º+H(RINFOZ
-CODE_SMELL
