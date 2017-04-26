@@ -1,0 +1,7 @@
+package com.capgemini.model.www;
+
+public class Student {
+	private int rollNumber;
+	private String Name;
+	
+}

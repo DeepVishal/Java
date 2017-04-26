@@ -1,0 +1,5 @@
+package com.capgemini.model.www;
+
+public class Student {
+
+}

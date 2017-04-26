@@ -1,0 +1,10 @@
+package com.capgemini.bl.www;
+
+public class StudentSchedular {
+private Student[] stds = new Students[10];
+private int counter;
+
+public String addStudent(){
+	
+}
+}

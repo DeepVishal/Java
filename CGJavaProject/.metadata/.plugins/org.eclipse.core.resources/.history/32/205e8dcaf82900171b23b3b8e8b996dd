@@ -1,0 +1,26 @@
+package com.capgemini.ui.www;
+
+import java.util.Scanner;
+
+public class Admin {
+	
+private static int choice;
+private static Scanner sc = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		//System.out.println("Good Luck");
+		showMenu();
+
+	}
+
+	private static void showMenu() {
+		System.out.println("Choose one of the below options: ");
+		System.out.println("1) Enter Student Details");
+		System.out.println("2) Show Details");
+		System.out.println("3) Exit");
+		choice = sc.nextInt();
+		
+		
+	}
+
+}
